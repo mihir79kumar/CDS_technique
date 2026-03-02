@@ -1,7 +1,7 @@
 # Correlated Double Sampling (CDS) Technique for Resistive Data Acquisition
 
 ## Project Overview
-This repository contains the design, implementation, and simulation of a **Correlated Double Sampling (CDS)** block tailored for the analog and digital VLSI domain. 
+This repository contains the design, implementation, and simulation of a **Correlated Double Sampling (CDS)** block. 
 The primary objective of this architecture is to completely cancel the amplifier's DC offset while simultaneously achieving a high overall voltage gain of approximately $A^2$ (where $A$ is the intrinsic gain of the core amplifier).
 The core of this design relies on a discrete-time switched-capacitor architecture operating under a two-phase non-overlapping clock scheme ($\phi_1$ and $\phi_2$):
 
