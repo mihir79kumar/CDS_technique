@@ -27,7 +27,7 @@ $$V_{O1} = \frac{\Delta Q}{C_2} = \left(\frac{C_1}{C_2}\right) \cdot V_{IN}$$
 ## Schematics and Simulation Results
 
 ### 1. CDS Block Schematic
-![CDS Schematic](cds.png)
+![CDS Schematic](CDS.png)
 *The discrete-time switched-capacitor architecture utilizing CMOS transmission gates.*
 
 ### 2. Two-Phase Clock Generation
