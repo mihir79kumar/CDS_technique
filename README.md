@@ -33,7 +33,7 @@ $$V_{O1} = \frac{\Delta Q}{C_2} = \left(\frac{C_1}{C_2}\right) \cdot V_{IN}$$
 ### 2. Two-Phase Clock Generation
 ![Clock Signals](novc_output2.png)
 
-*Transient simulation of $\phi_1$ and $\phi_2$ demonstrating the precise 2 ns non-overlap period.*
+*Transient simulation of phi_1 and phi_2 demonstrating the precise 2 ns non-overlap period.*
 
 ### 3. Transient Response & Offset Cancellation
 ![Transient Response](transient_response.png)
