@@ -46,4 +46,4 @@ $$V_{O1} = \frac{\Delta Q}{C_2} = \left(\frac{C_1}{C_2}\right) \cdot V_{IN}$$
 * **Key Components:** Switched-Capacitors, CMOS Transmission Gates, Op-Amps
 
 ## References
-* Y.-J. Huang, T.-H. Tzeng, T.-W. Lin, C.-W. Huang, P.-W. Yen, P.-H. Kuo, C.-T. Lin, and S.-S. Lu, ["A Self-Powered CMOS Reconfigurable Multi-Sensor SoC for Biomedical Applications,"]([https://doi.org/10.1109/JSSC.2013.2297392](https://ieeexplore.ieee.org/document/6722970)) *IEEE Journal of Solid-State Circuits*, vol. 49, no. 4, pp. 851–866, Apr. 2014, doi: 10.1109/JSSC.2013.2297392.
+* Y.-J. Huang, T.-H. Tzeng, T.-W. Lin, C.-W. Huang, P.-W. Yen, P.-H. Kuo, C.-T. Lin, and S.-S. Lu, ["A Self-Powered CMOS Reconfigurable Multi-Sensor SoC for Biomedical Applications,"](https://ieeexplore.ieee.org/document/6722970) *IEEE Journal of Solid-State Circuits*, vol. 49, no. 4, pp. 851–866, Apr. 2014. [IEEE Xplore Paper Link](https://ieeexplore.ieee.org/document/6722970)
